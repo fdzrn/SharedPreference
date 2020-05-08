@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TugasSharedPreference</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="email">Email :</string>
+    <string name="input_password">Password</string>
+    <string name="input_email">Email</string>
+    <string name="password">Password</string>
+
+</resources>
